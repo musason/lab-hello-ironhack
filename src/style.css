@@ -1,0 +1,49 @@
+.menu-background{
+    background-color:#151d3b;
+    height:20rem;
+    padding: 4rem;
+}
+
+.lower-section{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+
+#main-h1{
+    color: white;
+}
+
+.logos{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+    padding-bottom: 5rem;
+
+}
+
+#first-p{
+    color: white;
+
+}
+
+.button-awesome{
+    background-color: white;
+    width: 100px;
+    height:50px;
+    display: flex;
+    align-items: center;
+    
+    border-radius: 5px;
+    
+}
+
+.button-awesome h4{
+  vertical-align: center;
+}
